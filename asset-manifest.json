@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FarhaanUDM/react_GroceryList/static/css/main.bbb48fce.css",
+    "main.js": "/FarhaanUDM/react_GroceryList/static/js/main.c265a795.js",
+    "index.html": "/FarhaanUDM/react_GroceryList/index.html",
+    "main.bbb48fce.css.map": "/FarhaanUDM/react_GroceryList/static/css/main.bbb48fce.css.map",
+    "main.c265a795.js.map": "/FarhaanUDM/react_GroceryList/static/js/main.c265a795.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbb48fce.css",
+    "static/js/main.c265a795.js"
+  ]
+}
